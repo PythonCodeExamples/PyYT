@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
-sudo apt install mpv
-sudo apt install curl
+sudo apt install mpv, curl, rlwrap
 pip3 install -r requirements.txt
 
 sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
