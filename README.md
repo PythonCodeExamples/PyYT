@@ -9,8 +9,14 @@ Dependencies:
 * **youtube-dl** - Video download tool.
 
 
-Installing dependencies:
+Installation:
 -----------------------
-### Installation script work with apt package manager.
-* You can run ```sudo install.sh```. This script will install mpv, youtube-dl and python3-packages for the program. 
-* Also you are able to install MPV and youtube-dl by yourself, but you can meet some issues.
+### Installation script work with apt package manager only.
+```
+git clone https://github.com/PythonCodeExamples/PyYT
+cd PyYT
+chmod +x install.sh
+./install.sh
+```
+
+* Now you are able to run PyYT just by typing ```pyyt```.
