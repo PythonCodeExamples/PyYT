@@ -7,6 +7,7 @@ Dependencies:
 ------------
 * **MPV** - Media player.
 * **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Video download tool.
+* **rlwrap** - Input editing utility.
 
 
 Installation:
