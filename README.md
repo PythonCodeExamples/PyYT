@@ -6,7 +6,7 @@ With this tool you will be able to get into interactive shell and browse your fa
 Dependencies:
 ------------
 * **MPV** - Media player.
-* **youtube-dl** - Video download tool.
+* **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Video download tool.
 
 
 Installation:
